@@ -2,4 +2,4 @@
 
 CUNY MS in Data Analytics: DATA 620 - Group Respository
 
-__Members:__  Andrew Carson, Nathaniel Cooper, Eleanor Romero-Secoquian, Walt Wells
+__Members:__  Andrew Carson, Nathaniel Cooper, Walt Wells
