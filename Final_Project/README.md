@@ -10,7 +10,7 @@ Put on your urban sombreros and join us as we explore who among us is spongewort
 
 1) Project Proposal - [Seinfeld_Proposal.ipynb](https://github.com/wwells/CUNY_DATA_620_GROUP/blob/master/Final_Project/Seinfeld_Proposal.ipynb)
 2) Data Preparation - [SeinfeldScriptScrape.ipynb](https://github.com/wwells/CUNY_DATA_620_GROUP/blob/master/Final_Project/SeinfeldScriptScrape.ipynb)
-	* Data Prep Video:  
+	* Data Prep Video:  https://raw.githubusercontent.com/wwells/CUNY_DATA_620_GROUP/master/Final_Project/SeinfeldScriptScrape_Presentation.m4v
 3) Social Network Analysis - [Seinfeld_SNA.ipynb](https://github.com/wwells/CUNY_DATA_620_GROUP/blob/master/Final_Project/Seinfeld_SNA.ipynb)
 
 ### Data
